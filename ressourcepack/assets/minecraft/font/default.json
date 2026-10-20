@@ -1,0 +1,67 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/fondateur.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20b7"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/gardien.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20b5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/apprenti.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u0e3f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dirigeant.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20bc"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/voyageur.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20a5"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/afk.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20be"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/tpa.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20c0"
+      ]
+    }
+  ]
+}
