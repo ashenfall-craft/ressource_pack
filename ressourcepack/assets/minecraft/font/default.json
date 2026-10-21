@@ -62,6 +62,24 @@
       "chars": [
         "\u20c0"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vote.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20b1"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/homes.png",
+      "height": 10,
+      "ascent": 8,
+      "chars": [
+        "\u20ab"
+      ]
     }
   ]
 }
